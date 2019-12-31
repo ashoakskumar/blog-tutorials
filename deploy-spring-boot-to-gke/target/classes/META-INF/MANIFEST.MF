@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: deploy-spring-boot-to-gke
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: PC
+Implementation-Vendor-Id: de.rieckpil.blog
+Build-Jdk: 1.8.0_151
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-bo
+ ot-starter-parent/deploy-spring-boot-to-gke
+Created-By: Maven Integration for Eclipse
+
