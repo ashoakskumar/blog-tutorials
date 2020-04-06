@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: spring-cloud-kubernetes-config-example
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: PC
+Implementation-Vendor-Id: com.techprimers.kubernetes
+Build-Jdk: 1.8.0_151
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-bo
+ ot-starter-parent/spring-cloud-kubernetes-config-example
+Created-By: Maven Integration for Eclipse
+
